@@ -1,0 +1,135 @@
+.skills_container {
+    display: grid;
+    grid-template-columns: repeat(2, 350px);
+    column-gap: 3rem;
+    justify-content: center;
+  }
+  
+  .skills_content {
+    margin-top: 3rem;
+    background-color: var(--container-color);
+    border: 1px solid rgba(0 0 0 0.1);
+    padding: 2rem 4rem;
+    border-radius: 2rem;
+  }
+
+  .skills_title {
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-medium);
+    text-align: center;
+    margin-bottom: var(--mb-1-5);
+  }
+  
+  .skills_box {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 2.5rem;
+  }
+
+.skills_content{
+    margin-top: 3rem;
+    background-color: var(--container-color);
+    border: 1px solid rgba(0 0 0 0.1);
+    padding: 2rem 4rem;
+    border-radius: 2rem;
+}
+
+.skills_title{
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-medium);
+    text-align: center;
+    margin-bottom: var(--mb-1-5);
+}
+
+
+.skills_group {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    gap: 1rem;
+    width: 50%;
+}
+
+.skills_data {
+    display: flex;
+    column-gap: 0.5rem;
+    width: calc(50% - 1rem);
+}
+  
+
+.skills .bx-badge-check{
+    font-size: 1rem;
+    color: var(--title-color);
+}
+
+.skills_group{
+    display: grid;
+    align-items: flex-start;
+    row-gap: 1rem;
+
+}
+
+.skills_data{
+    display: flex;
+    column-gap: 0.5rem;
+}
+
+.skills.left .skills_group {
+    justify-items: start;
+  }
+  
+  .skills.right .skills_group {
+    justify-items: end;
+  }
+
+.skills .bx-badge-check{
+    font-size: 1rem;
+    color: var(--title-color);
+}
+
+.skills_name{
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-medium);
+    line-height: 18px;
+}
+
+.skills_level{
+    font-size: var(--tiny-font-size);
+}
+
+/* For large devices */
+@media screen and (max-width: 992px) {
+    .about_container {
+     grid-template-columns: max-content;
+     row-gap: 2rem;
+    }
+
+  }
+  
+  /* For medium devices */
+  @media screen and (max-width: 768px) {
+    .skills_container{
+        grid-template-columns: 1fr;
+    }
+
+    .skills_content{
+        margin-left: 3rem;
+    }
+
+
+  }
+  
+  
+  /* For small devices */
+  @media screen and (max-width: 350px) {
+    .skills_box{
+        column-gap: 1.25rem;
+    }
+
+    .skills_name{
+        font-size: var(--small-font-size);
+    }
+
+    
+  }
