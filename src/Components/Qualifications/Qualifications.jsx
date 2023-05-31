@@ -33,13 +33,13 @@ const Qualifications = () => {
                 </div>
 
                 <div className="qualifications_section">
-                    <div className="qualifications_content">
+                    <div className="qualifications_content qualifications_content-active">
                         <div className="qualifications_data">
                             <h3 className="qualifications_title">Web Development</h3>
-                            <span className="qualifications_subtitle">Vellore Institute of Technology</span>
+                            <span className="qualifications_subtitle">VIT-Bhopal</span>
                             <div className="qualification_calender">
                                 <i className="uil uil-calender-alt"></i>
-                                2021-Present
+                                2021-22
                             </div>
                         </div>
 
@@ -47,10 +47,10 @@ const Qualifications = () => {
                         <span className="qualifications_line"></span>
                     </div>
 
-                    <div className="qualifications_content">
+                    <div className="qualifications_content qualifications_content-active">
                         <div className="qualifications_data">
                             <h3 className="qualifications_title">Android Development</h3>
-                            <span className="qualifications_subtitle">Vellore Institute of Technology</span>
+                            <span className="qualifications_subtitle">VIT-Bhopal</span>
                             <div className="qualification_calender">
                                 <i className="uil uil-calender-alt"></i>
                                 2022-Present
@@ -61,10 +61,10 @@ const Qualifications = () => {
                         <span className="qualifications_line"></span>
                     </div>
 
-                    <div className="qualifications_content">
+                    <div className="qualifications_content qualifications_content-active">
                         <div className="qualifications_data">
                             <h3 className="qualifications_title">Java Developer</h3>
-                            <span className="qualifications_subtitle">Vellore Institute of Technology</span>
+                            <span className="qualifications_subtitle">VIT-Bhopal</span>
                             <div className="qualification_calender">
                                 <i className="uil uil-calender-alt"></i>
                                 2022-Present
@@ -75,10 +75,10 @@ const Qualifications = () => {
                         <span className="qualifications_line"></span>
                     </div>
 
-                    <div className="qualifications_content">
+                    <div className="qualifications_content qualifications_content-active">
                         <div className="qualifications_data">
                             <h3 className="qualifications_title">Data Analysis</h3>
-                            <span className="qualifications_subtitle">Vellore Institute of Technology</span>
+                            <span className="qualifications_subtitle">VIT-Bhopal</span>
                             <div className="qualification_calender">
                                 <i className="uil uil-calender-alt"></i>
                                 2023-Present
