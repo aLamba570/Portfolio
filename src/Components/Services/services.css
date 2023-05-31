@@ -9,6 +9,7 @@
     border: 1px solid rgba(0 0 0 0.1);
     background-color: var(--container-color);
     padding: 6rem 0 2rem 2.5rem;
+    border-radius: 2rem;
 }
 
 .services_modal{
@@ -36,6 +37,7 @@
     align-items: center;
     column-gap: 0.25rem;
     cursor: pointer;
+    border-radius: 2rem;
 }
 
 .services__button-icon{
@@ -58,6 +60,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 2rem;
     padding: 0 1rem;
     opacity: 1;
     visibility: hidden;
@@ -70,7 +73,7 @@
     position: relative;
     background-color: var(--container-color);
     padding: 4.5rem 2.5rem 2.5rem;
-    border-radius: 1.5rem;
+    border-radius: 2rem;
 }
 
 .services_modal-close{
@@ -110,6 +113,7 @@
     align-items: center;
     row-gap: .2rem;
     flex-direction: column;
+    border-radius: 2rem;
 }
 
 .services_modal-icon{

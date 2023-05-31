@@ -8,7 +8,7 @@ const Front = () => {
             <div className="skills_box">
                 <div className="skills_group">
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">Java</h3>
@@ -18,7 +18,7 @@ const Front = () => {
 
 
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">Xml</h3>
@@ -28,7 +28,7 @@ const Front = () => {
 
 
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">Firebase</h3>
@@ -38,7 +38,7 @@ const Front = () => {
 
 
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">Rest Api</h3>
@@ -47,7 +47,7 @@ const Front = () => {
                     </div>
 
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">Mongo DB</h3>
@@ -57,7 +57,7 @@ const Front = () => {
 
 
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">UI & UX</h3>
@@ -67,16 +67,13 @@ const Front = () => {
 
 
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">Git & Github</h3>
                         <span className="skills_level">Advanced</span>
                     </div>
                     </div>
-
-
-
 
                 </div>
             </div>

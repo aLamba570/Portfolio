@@ -5,7 +5,7 @@ import Home from './Components/Home/Home';
 import Skills from './Components/Skills/Skills';
 import About from './Components/about/About';
 import Services from './Components/Services/Services';
-import Qualifications from './Qualifications/Qualifications';
+import Qualifications from './Components/Qualifications/Qualifications';
 
 function App() {
   return (

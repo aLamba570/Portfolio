@@ -5,7 +5,7 @@ import Back from './Back';
 
 const Skills = () => {
     return(
-        <sectiion className="skills section" id="skills">
+        <section className="skills section" id="skills">
             <h2 className="section_title" 
             style={{
                 textAlign: "center",
@@ -30,7 +30,7 @@ const Skills = () => {
         </div>
             </div>
 
-        </sectiion>
+        </section>
     );
 };
 

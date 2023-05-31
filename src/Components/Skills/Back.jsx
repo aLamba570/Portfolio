@@ -11,7 +11,7 @@ const Back = () => {
 
 
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">React js</h3>
@@ -21,7 +21,7 @@ const Back = () => {
 
 
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">Html</h3>
@@ -31,7 +31,7 @@ const Back = () => {
 
 
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">CSS</h3>
@@ -40,7 +40,7 @@ const Back = () => {
                     </div>
 
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">JavaScript</h3>
@@ -50,7 +50,7 @@ const Back = () => {
 
 
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">Three js</h3>
@@ -59,7 +59,7 @@ const Back = () => {
                     </div>
 
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">UI & UX</h3>
@@ -69,7 +69,7 @@ const Back = () => {
 
 
                     <div className="skills_data">
-                    <i class='bx bx-badge-check'></i>
+                    <i className='bx bx-badge-check'></i>
 
                     <div>
                         <h3 className="skills_name">Git & Github</h3>
@@ -77,8 +77,6 @@ const Back = () => {
                     </div>
                     </div>
 
-
-                    
                 </div>
             </div>
         </div>

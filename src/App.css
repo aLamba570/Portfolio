@@ -13,7 +13,7 @@
   --title-color-dark: hsl(var(--hue), var(--sat), 0%);
   --text-color: hsl(var(--hue), var(--sat), 46%);
   --body-color: hsl(var(--hue), var(--sat), 98%);
-  --container-color: #fff;
+  --container-color: #ffffff;
 
   /*========== Font and typography ==========*/
   --body-font: "Poppins", sans-serif;
@@ -111,6 +111,10 @@ button {
 img {
   max-width: 100%;
   height: auto;
+}
+
+.App{
+  background-color: rgba(219, 209, 209, 0.222);
 }
 
 /*=============== REUSABLE CSS CLASSES ===============*/
