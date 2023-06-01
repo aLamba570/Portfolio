@@ -61,6 +61,7 @@ const Qualifications = () => {
                         <span className="qualifications_line"></span>
                     </div>
 
+
                     <div className="qualifications_content qualifications_content-active">
                         <div className="qualifications_data">
                             <h3 className="qualifications_title">Java Developer</h3>
