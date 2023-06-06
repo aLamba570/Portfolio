@@ -61,7 +61,7 @@ const Contact = () => {
 
                     <form className="contact_form">
                         <div className="contact_form-div">
-                            <label htmlFor="" className="contact_form-tag">Name</label>
+                            <label className="contact_form-tag">Name</label>
                             <input 
                             type="text" 
                             name='name' 
@@ -70,7 +70,7 @@ const Contact = () => {
                         </div>
 
                         <div className="contact_form-div">
-                            <label htmlFor="" className="contact_form-tag">Mail</label>
+                            <label  className="contact_form-tag">Mail</label>
                             <input 
                             type="email" 
                             name='email' 
@@ -79,7 +79,7 @@ const Contact = () => {
                         </div>
 
                         <div className="contact_form-div">
-                            <label htmlFor="" className="contact_form-tag">Project</label>
+                            <label  className="contact_form-tag">Project</label>
                             <textarea 
                             name="project" 
                             className='contact_form-input' 
