@@ -27,7 +27,7 @@ const Contact = () => {
                             <span className="contact_card-data">alamba570@gmail.com</span>
 
                             <a href="mailto:alamba570@gmail.com.com" className="contact_button">
-                                Write me{" "} <i className="bx bx-right-arrow-alt contact_button-icon"></i>
+                                Write me {" "} <i className="bx bx-right-arrow-alt contact_button-icon"></i>
                             </a>
                         </div>
 
@@ -38,7 +38,7 @@ const Contact = () => {
                             <span className="contact_card-data">+91-9821816465</span>
 
                             <a href="https://wa.link/kgs94b" className="contact_button">
-                                Write me <i className="bx bx-right-arrow-alt contact_button-icon"></i>
+                                Write me {" "}<i className="bx bx-right-arrow-alt contact_button-icon"></i>
                             </a>
                         </div>
 
@@ -50,7 +50,7 @@ const Contact = () => {
                             <span className="contact_card-data">Ankush Lamba</span>
 
                             <a href="https://www.linkedin.com/in/ankush-lamba/" className="contact_button">
-                                Write me <i className="bx bx-right-arrow-alt contact_button-icon"></i>
+                                Write me {" "} <i className="bx bx-right-arrow-alt contact_button-icon"></i>
                             </a>
                         </div>
                     </div>
