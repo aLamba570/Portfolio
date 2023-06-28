@@ -1,4 +1,5 @@
 import React from 'react';
+import './contact.css';
 
 const Contact = () => {
     return (
@@ -26,7 +27,7 @@ const Contact = () => {
                             <h3 className="contact_card-title">Email</h3>
                             <span className="contact_card-data">alamba570@gmail.com</span>
 
-                            <a href="mailto:alamba570@gmail.com.com" className="contact_button">
+                            <a href="mailto:alamba570@gmail.com.com " className="contact_button">
                                 Write me {" "} <i className="bx bx-right-arrow-alt contact_button-icon"></i>
                             </a>
                         </div>
@@ -37,8 +38,8 @@ const Contact = () => {
                             <h3 className="contact_card-title">Whatsapp</h3>
                             <span className="contact_card-data">+91-9821816465</span>
 
-                            <a href="https://wa.link/kgs94b" className="contact_button">
-                                Write me {" "}<i className="bx bx-right-arrow-alt contact_button-icon"></i>
+                            <a href="https://wa.link/kgs94b " className="contact_button">
+                                 Write me {" "}<i className="bx bx-right-arrow-alt contact_button-icon"></i>
                             </a>
                         </div>
 
